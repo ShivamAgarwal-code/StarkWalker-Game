@@ -1,0 +1,12 @@
+# node modules
+*node_modules
+
+# environment
+*.env
+
+# next.js
+*/swc/
+.swc/
+client/out
+client/.next
+
